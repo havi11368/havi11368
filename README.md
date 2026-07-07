@@ -1,7 +1,7 @@
 <image src="https://i.imgur.com/xLdwmMU.png"></image>
 <h1>About Me</h1>
 
-<p>Most of my repositories are private.</p>
+<p>[7/7/2026] This readme is very old. A new readme is coming soon.</p>
 
 <h1>Live Status</h1>   
 
